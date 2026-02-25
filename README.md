@@ -22,6 +22,6 @@ A responsive and interactive personal portfolio showcasing my projects, skills, 
 
 ## Technologies
 - HTML5, CSS3, JavaScript
--  GitHub
+- Git & GitHub
 
 **Created by Vincent Gbafah**
